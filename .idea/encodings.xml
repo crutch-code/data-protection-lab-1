@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1251">
+    <file url="file://$PROJECT_DIR$/crypt_text.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/crutchcode/AlphabetUtil.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/crutchcode/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/crutchcode/decryptor/Decrypt.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/crutchcode/decryptor/GammingDecryptor.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/crutchcode/decryptor/VigenerDecrypt.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/crutchcode/encryptor/Encrypt.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/crutchcode/encryptor/GammingEncrypt.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/crutchcode/encryptor/VigenerEncrypt.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
